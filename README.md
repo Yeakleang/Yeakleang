@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Visitor](https://visitor-badge.glitch.me/badge?page_id=Yeakleang.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Yeakleang.visitor-badge)
